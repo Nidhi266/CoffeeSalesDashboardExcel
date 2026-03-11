@@ -16,6 +16,5 @@ Analyzed coffee sales across Astoria, Hell’s Kitchen, and Lower Manhattan to p
 - Improved regional sales visibility for targeted promotions
 
 ## Tech Stack
-- Tableau / Power BI
-- Python (Pandas, Matplotlib/Seaborn)
-- SQL for data extraction
+-  Excel (Pivot Tables, Charts, Slicers)
+- Dashboard Visualization
