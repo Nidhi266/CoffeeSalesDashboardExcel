@@ -18,3 +18,6 @@ Analyzed coffee sales across Astoria, Hell’s Kitchen, and Lower Manhattan to p
 ## Tech Stack
 -  Excel (Pivot Tables, Charts, Slicers)
 - Dashboard Visualization
+
+## Dashboard Preview
+![sales Fashboard](sales.png)
